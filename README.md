@@ -56,14 +56,6 @@ Promoter region identification is crucial for understanding gene expression and 
 | BiLSTM                   | 67.3         |
 | **CNN**                  | **91.3**     |
 
----
-
-## 🖼️ Visualizations
-
-- Class balance bar chart
-- Nucleotide frequency heatmaps
-- Sequence length distribution
-- EDA on promoter vs. non-promoter patterns
 
 ---
 
