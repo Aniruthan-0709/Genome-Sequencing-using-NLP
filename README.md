@@ -70,3 +70,9 @@ Promoter region identification is crucial for understanding gene expression and 
 ## Acknowledgements
 
 - This work is inspired by state-of-the-art genomic classification models and was supported by coursework at Northeastern University.
+
+## Teammates
+
+- Janani Karthikeyan
+- Pratosh Karthikeyan
+- Aniruthan
